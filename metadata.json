@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Physiotherapist Home Visit in Pune",
+  "description": "Professional physiotherapy home visit services in Pune for paralysis rehabilitation, stroke recovery, neurological, orthopedic, pain management, elderly and post-surgery rehabilitation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
